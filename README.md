@@ -77,11 +77,9 @@ AI-Website-Summarizer/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/ShwetaChavhan/ai-website-summarizer.git
 cd ai-website-summarizer
 ```
-
-Replace the placeholder with your GitHub repository URL.
 
 ### 2. Create a virtual environment
 
